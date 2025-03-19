@@ -75,7 +75,8 @@
 
 ---
 
-If you're looking for an independent developer who is really proficient and have good experiences in the above skills for expanding your Dev Team or for proceeding with your project, you've <b>COME TO THE RIGHT PLACE</b> and <b>PLEASE DON'T HESITATE TO CONTACT ME ANYTIME 🙏🏻</b>.
+If you're looking for an independent developer who is really proficient and have good experiences in the above skills for expanding your Dev Team or for proceeding with your project, you've <b>COME TO THE RIGHT PLACE</b> and <b>PLEASE DON'T HESITATE TO CONTACT ME ANYTIME
+.</b>
 
 ---
 
