@@ -2,6 +2,7 @@
 
 <p>Welcome to my profile! </br>Senior Fullstack developer
 <h3>Things I code with</h3>
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
